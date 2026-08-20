@@ -1,0 +1,6 @@
+{
+  "name": "OwO Discord Bot",
+  "description": "Discord-style OwO bot simulator featuring cash economy, gambling games (coinflip, slots, blackjack, dice, lottery), animal hunting & zoo, quest rewards, shop, and interactive Discord chat interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
